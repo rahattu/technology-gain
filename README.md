@@ -16,7 +16,7 @@ Courses:
 9.node js
 
 webpage show here.
-click the link: " https://loving-curie-cff793.netlify.app/ "
+click the link: " https://quirky-leavitt-4904ae.netlify.app/contact "
 
 
 More details go to the "About us"

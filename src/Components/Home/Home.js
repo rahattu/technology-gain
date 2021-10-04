@@ -18,7 +18,7 @@ const Home = () => {
                 })
             }
             <Link to="/service">
-            <button>Show More cource</button></Link>
+            <button>Show More </button></Link>
             </div>
             
         </div>

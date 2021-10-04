@@ -24,7 +24,7 @@ const Data=[
         "picture": "https://raw.githubusercontent.com/angular-ui/angular-ui.github.com/master/logo/UI_Shield_Bootstrap.png",
         "name": "BOOTSTRAP-4",
         "price":20,
-          'info':'Bootstrap is an open-source framework used for creating responsive, mobile-first sites. We know that is a mouthful, so lets go through the parts of that definition one by one.'
+          'info':'Bootstrap is an open-source framework used for creating responsive, mobile-first sites. We know that is a mouthful, so lets go through the parts of that definition one by one.it is use by multiple code by many framework'
         
       },
       {

@@ -13,4 +13,3 @@ Most programming languages consist of instructions for computers. There are prog
 };
 
 export default About;
-////about us

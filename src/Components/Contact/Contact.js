@@ -33,7 +33,7 @@ const Contact = () => {
         <br/>
      
       
-        <Footer/>
+      
     
         </section>
             
